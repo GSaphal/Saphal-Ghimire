@@ -101,7 +101,7 @@ font-family: 'Montserrat', sans-serif;
 .navbar-default .navbar-nav>li>a
 {
 	margin-left:20px;
-		color:white;
+		color:white!important;
 font-family: 'Montserrat', sans-serif;
 	text-transform: uppercase;
 	font-size:18px;
@@ -110,11 +110,11 @@ font-family: 'Montserrat', sans-serif;
 }
 .navbar-default .navbar-nav>li>a:hover
 {
-		color:orange;
+		color:orange!important;
 }
 .navbar-default .navbar-nav>.active>a:hover
 {
-	color:orange;
+	color:orange!important;
 	background:none;
 }
 .navbar .navbar-nav {
